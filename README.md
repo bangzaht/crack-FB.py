@@ -3,7 +3,7 @@ How to install?
 
 Bagaimana cara menginstallnya?
 
-#Cara install
+# Cara install
 
 pkg install git
 
