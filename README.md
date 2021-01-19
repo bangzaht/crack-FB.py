@@ -4,6 +4,7 @@ How to install?
 Bagaimana cara menginstallnya?
 
 #Cara install
+
 pkg install git
 
 pkg install python
